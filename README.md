@@ -63,14 +63,14 @@ Une fois le projet *42h* compilé vous pouvez le lancer à l'aide de la commande
 - Complétion simple avec la touche `tab`
 - Gestion des variables locales grace aux builtins `set` et `unset`
 - Implémentation des builtins suivantes en respectant les normes dictées par POSIX: 
-	◦ `cd`
-	◦ `echo`
-	◦ `exit`
-	◦ `env` 
-	◦ `setenv` (équivalent de export sous bash)
-	◦ `set`
-	◦ `unsetenv`
-	◦ `unset`
+	- `cd`
+	- `echo`
+	- `exit`
+	- `env` 
+	- `setenv` (équivalent de export sous bash)
+	- `set`
+	- `unsetenv`
+	- `unset`
 - Historique des commandes et les builtins `history` et `!` avec toutes leurs options.
 
 ## Auteur
