@@ -48,7 +48,7 @@ Une fois le projet *42h* compilé vous pouvez le lancer à l'aide de la commande
 - Gestion des erreurs et de la valeur de retour des commandes avec la commande `echo $?`.
 - Les redirections avancées: l’aggrégation des sorties de fichier et le heredoc `<<`
 	- Les quatre redirections `<`, `>`, `<<` (heredoc) et `>>`.
-	- Les aggrégations de descripteurs de fichiers, par exemple pour fermer la sortie d’erreur (>& et <&).
+	- Les aggrégations de descripteurs de fichiers, par exemple pour fermer la sortie d’erreur (`>&` et `<&`).
 - Utiliser les flèches du haut et du bas pour naviguer dans l’historique des commandes, édition de la ligne possible.
 - Couper, copier et/ou coller tout ou partie d’une ligne avec les séquences de touches suivantes:
 	- `shift + LEFT/RIGHT` Sélectionner du texte.
