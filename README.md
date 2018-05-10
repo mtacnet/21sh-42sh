@@ -73,7 +73,7 @@ Une fois le projet *42h* compilé vous pouvez le lancer à l'aide de la commande
 	- `unset`
 - Historique des commandes et les builtins `history` et `!` avec toutes leurs options.
 
-## Auteur
+## Auteurs
 
 - Alexis Guérin - https://github.com/Aguerin42
 - Thomas Grange - https://github.com/tgrange42
